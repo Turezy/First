@@ -2,3 +2,4 @@
 创建的第一个分支“new master”
 创建第二个分支“second master”
 测试合并分支1
+测试合并分支2
